@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Siebel Log Analyser")]
 [assembly: AssemblyDescription("Retrieves Siebel warning and error messages (SBL-xxx-yyy) and presents them in a list view for analysis")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ollerenshaw IT Ltd")]
+[assembly: AssemblyCompany("Life After Siebel")]
 [assembly: AssemblyProduct("Siebel Log Analyser")]
-[assembly: AssemblyCopyright("Copyright © Ollerenshaw IT Ltd 2016")]
+[assembly: AssemblyCopyright("Copyright © Iain Ollerenshaw 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.5.*")]
-[assembly: AssemblyFileVersion("1.5.0.0")]
+[assembly: AssemblyVersion("2.0.*")]
+[assembly: AssemblyFileVersion("2.0.0.0")]

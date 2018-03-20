@@ -122,7 +122,7 @@
             this.richTextBoxURL.Name = "richTextBoxURL";
             this.richTextBoxURL.Size = new System.Drawing.Size(234, 13);
             this.richTextBoxURL.TabIndex = 25;
-            this.richTextBoxURL.Text = "http://www.ollerenshaw-it.com/";
+            this.richTextBoxURL.Text = "http://www.lifeaftersiebel.co.uk/";
             this.richTextBoxURL.WordWrap = false;
             // 
             // textBoxDescription
