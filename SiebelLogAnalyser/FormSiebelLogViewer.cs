@@ -190,7 +190,7 @@ namespace SiebelLogAnalyser
 
         private void toolStripMenuItemHelp_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.siebel-tech.com/forums/forum/siebel-store-support/product-support/siebel-log-analyser/");
+            System.Diagnostics.Process.Start("http://www.lifeaftersiebel.co.uk/#contact-us");
         }
 
         private void fastObjectListViewMessages_FormatRow(object sender, FormatRowEventArgs e)
